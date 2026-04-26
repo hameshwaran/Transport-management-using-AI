@@ -1,0 +1,18 @@
+{
+  "name": "ai-transport-maintenance",
+  "version": "1.0.0",
+  "description": "AI-powered system for predicting vehicle maintenance needs and scheduling services efficiently.",
+  "main": "src/js/app.js",
+  "scripts": {
+    "start": "echo \"Open index.html in your browser to start the app.\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AI",
+    "Fleet Management",
+    "Maintenance",
+    "Predictive"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
